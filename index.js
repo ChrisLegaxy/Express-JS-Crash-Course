@@ -6,7 +6,7 @@ const logger = require("./middleware/logger")
 // Initializing express
 const app = express();
 
-// Port checking from env file
+// Port checking from env
 const port = process.env.PORT || 5000;
 
 // Middleware
