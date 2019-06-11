@@ -44,7 +44,8 @@ router.post("/", (req, res) => {
 
     // Add element into an array
     members.push(newMember)
-    res.json(members)
+    // res.json(members)
+    res.redirect('/')
 })
 
 // Update Method
