@@ -4,6 +4,16 @@ This Crash Course is aim to learn the basic fundamentals of Express JS Framework
 
 * **Note** This project is won't have any UI. It will mostly cover API.
 
+## Topics that are included:
+* Setup & Install / Simple Server
+* Simple API
+* Routes, Request & Response
+* Express Router
+* Static Files
+* Template Engine Setup With Views
+* Middleware
+* Nodemon
+
 ## Getting Started
 
 Please following the instructions inorder to get this project up and running
@@ -52,3 +62,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 * Brad Traversy (For the amazing turtorial)
+https://github.com/bradtraversy/express_crash_course
