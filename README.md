@@ -1,6 +1,8 @@
 # Express JS Crash Course
 
-This Crash Course is aim to learn the basic fundamentals of Express JS Framework
+This Crash Course is aim to learn the basic fundamentals of Express JS Framework.
+
+* **Note** This project is won't have any UI. It will mostly cover API.
 
 ## Getting Started
 
